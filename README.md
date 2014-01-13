@@ -1,4 +1,4 @@
-sharpgauge
+SharpGauge
 ==========
 
-SharpGauge projects
+All projects
