@@ -1,0 +1,17 @@
+ID: unique id
+x1: google hits
+x2: twitter sentiment - sentiment140.com, positive count
+x3: twitter sentiment - sentiment140.com, negative count
+x4: beeradvocate.com - # of Ratings
+x5: beeradvocate.com - # of Reviews
+x6: beeradvocate.com - rAvg
+x7: beeradvocate.com - % pDev
+y: sales $
+
+Data:
+ID 1-20
+http://www.huffingtonpost.com/2012/09/03/top-selling-domestic-beers_n_1846582.html
+ID 21-39
+http://www.demetergroup.net/docs/perspective/Craft_Beer.pdf
+ID 40-49
+http://investorplace.com/2012/06/americas-top-10-favorite-beers/2/#.UrzuGvRDt8E
